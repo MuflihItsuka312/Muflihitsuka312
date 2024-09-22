@@ -28,11 +28,12 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
         </ul>
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/3aa0e36f-ab81-46a6-bae9-54cbde74a572" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
+        <img src="https://github.com/user-attachments/assets/189fa31b-325e-437f-a96b-d472fd0bad4e" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
