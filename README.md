@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/muhammad muflih fasya"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> 
+  <a href="https://www.linkedin.com/in/muhammad-muflih-fasya/"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> 
   <a href="https://medium.com/shid0ud3lt4"><img src="https://img.shields.io/badge/MEDIUM-DAC6C2?style=for-the-badge"/></a> 
   <a href="https://www.hackerrank.com/xxgdxxfbiswatboy"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
   <a href="https://app.hackthebox.com/profile/1340317"><img src="https://img.shields.io/badge/HACK%20THE%20BOX-DAC6C2?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white"/></a>
