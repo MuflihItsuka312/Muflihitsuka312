@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5e8ce189-2f65-43cd-b1b8-9a96c1485ec3)
+![image](https://github.com/user-attachments/assets/a5e39f67-6158-4284-96cc-4729351e35e7)
+
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad muflih fasya"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> 
