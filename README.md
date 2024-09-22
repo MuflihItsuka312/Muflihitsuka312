@@ -6,7 +6,7 @@
   <a href="https://www.hackerrank.com/xxgdxxfbiswatboy"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
 </p>
 <p align="center">
-A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes throught Continuous Intergration and Continuous Deployment</h3>
+A passionate **DevOps** and **network engineer** from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes through Continuous Intergration and Continuous Deployment</h3>
 </p>
 - 👤 Name Muhammad Muflih Fasya - ムフリフ
 
