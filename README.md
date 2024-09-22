@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **System Admin,Cisco Network,AWS Architect,CI/CD**
+- 💬 Ask me about **System Admin,Cisco Network,AWS Architect,CI/CD,Virtual Machine:VMware,Vagrant**
 
 - 📫 How to reach me **fasya.muflih05@gmail.com**
 
