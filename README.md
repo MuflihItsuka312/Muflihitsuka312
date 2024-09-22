@@ -19,7 +19,8 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 - 📫 How to reach me **fasya.muflih05@gmail.com**
 
-![cascas_hsym - 1830364006055313792 (3) (1)](https://github.com/user-attachments/assets/23b49231-bd28-42cc-93f3-52da9fe5966a)
+![cascas_hsym - 1830364006055313792 (3) (1)](https://github.com/user-attachments/assets/0edd1da1-220b-4d8a-b24a-677f2e7aa9e7)
+
 
 
 
