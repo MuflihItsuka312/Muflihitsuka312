@@ -9,22 +9,25 @@
 A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes through Continuous Intergration and Continuous Deployment</h3>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <ul style="list-style-type: none; padding: 0; margin: 0;">
-        <li>👤 Name: Muhammad Muflih Fasya - ムフリフ</li>
-        <li>🌱 I’m currently learning <strong>NodeJS</strong></li>
-        <li>📝 I regularly write articles on <a href="https://medium.com/@Sh1d0u">https://medium.com/@Sh1d0u</a></li>
-        <li>💬 Ask me about <strong>System Admin, Cisco Network, AWS Architect, CI/CD</strong></li>
-        <li>📫 How to reach me <strong>fasya.muflih05@gmail.com</strong></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/3aa0e36f-ab81-46a6-bae9-54cbde74a572" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left;">
+          <li>👤 Name: Muhammad Muflih Fasya - ムフリフ</li>
+          <li>🌱 I’m currently learning <strong>NodeJS</strong></li>
+          <li>📝 I regularly write articles on <a href="https://medium.com/@Sh1d0u">https://medium.com/@Sh1d0u</a></li>
+          <li>💬 Ask me about <strong>System Admin, Cisco Network, AWS Architect, CI/CD</strong></li>
+          <li>📫 How to reach me <strong>fasya.muflih05@gmail.com</strong></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/3aa0e36f-ab81-46a6-bae9-54cbde74a572" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
