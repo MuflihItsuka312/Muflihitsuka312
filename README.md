@@ -1,12 +1,13 @@
 ![image](https://github.com/user-attachments/assets/5e8ce189-2f65-43cd-b1b8-9a96c1485ec3)
-<p align="center">
+
 <p align="center">
   <a href="https://linkedin.com/in/muhammad muflih fasya"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> 
   <a href="https://medium.com/shid0ud3lt4"><img src="https://img.shields.io/badge/MEDIUM-DAC6C2?style=for-the-badge"/></a> 
   <a href="https://www.hackerrank.com/xxgdxxfbiswatboy"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
 </p>
+<p align="center">
 A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes</h3>
-
+</p>
 - 👤 Name Muhammad Muflih Fasya - ムフリフ
 
 - 🌱 I’m currently learning **NodeJS** 
