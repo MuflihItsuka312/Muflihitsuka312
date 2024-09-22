@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muflih</h1>
-<h3 align="center">A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, and Cybersecurity especially Penetration Testing. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across On Premise Server,Hybrid Server,And Full Cloud Server with Continuous Integration and Continuous Deployment</h3>
+<h3 align="center">A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muflihitsuka312&label=Profile%20views&color=0e75b6&style=flat" alt="muflihitsuka312" /> </p>
 
@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **System Admin,Cisco Network,AWS Architect,CI/CD,Virtual Machine:VMware,Vagrant**
+- 📝 I regularly write articles on [https://medium.com/@Sh1d0u](https://medium.com/@Sh1d0u)
+
+- 💬 Ask me about **System Admin,Cisco Network,AWS Architect,CI/CD**
 
 - 📫 How to reach me **fasya.muflih05@gmail.com**
 
