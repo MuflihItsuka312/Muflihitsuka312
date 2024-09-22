@@ -9,7 +9,7 @@
 A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes through Continuous Intergration and Continuous Deployment</h3>
 </p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <ul style="list-style-type: none; padding: 0;">
       <li>👤 Name: Muhammad Muflih Fasya - ムフリフ</li>
