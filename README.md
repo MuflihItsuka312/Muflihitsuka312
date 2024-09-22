@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **NodeJS**
+
+- 💬 Ask me about **System Admin,Cisco Network,AWS Architect,CI/CD**
+
+- 📫 How to reach me **fasya.muflih05@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad muflih fasya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad muflih fasya" height="30" width="40" /></a>
