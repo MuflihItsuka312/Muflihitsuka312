@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/5e8ce189-2f65-43cd-b1b8-9a96c1485ec3)
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/muhammad muflih fasya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad muflih fasya" height="30" width="40" /></a>
 <a href="https://medium.com/shid0ud3lt4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shid0ud3lt4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/xxgdxxfbiswatboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ren ashabell" height="30" width="40" /></a>
