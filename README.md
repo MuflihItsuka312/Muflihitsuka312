@@ -1,5 +1,5 @@
-<h1 align="center">![image](https://github.com/user-attachments/assets/3c5e9d3e-dc33-4541-a6b1-14d94ea287b7)
-</h1>
+![image](https://github.com/user-attachments/assets/5e8ce189-2f65-43cd-b1b8-9a96c1485ec3)
+
 <h3 align="center">A passionate DevOps and network engineer from Indonesia with a deep enthusiasm for cloud architecture, cybersecurity, and web pentesting. I combine my expertise in networking, coding, and security to build scalable, secure, and efficient solutions across diverse tech landscapes</h3>
 
 
