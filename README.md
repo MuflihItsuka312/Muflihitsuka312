@@ -131,22 +131,22 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 <h3 align="left">Cybersecurity & Digital Forensic:</h3>
 <p align="left">
    <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" alt="fortinet" width="40" height="40" style="max-width: 92px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" alt="fortinet" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NT5nvK-S6lm26cIls-aBDQ.png" width="40" height="40" style="max-width: 90px;"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NT5nvK-S6lm26cIls-aBDQ.png" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="90" height="90" style="max-width: 90px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/866922?s=48&v=4" alt="autopsy" width="90" height="40" style="max-width: 90px;"/> 
+    <img src="https://avatars.githubusercontent.com/u/866922?s=48&v=4" alt="autopsy" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="sqlmap" width="90" height="90" style="max-width: 90px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" alt="sqlmap" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="90" height="90" style="max-width: 90px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40" style="max-width: 40px;"/> 
   </a>
 </p>
 
