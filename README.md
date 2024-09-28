@@ -123,8 +123,8 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
   </a>
    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  </a>
-    <a href="https://www.openldap.org/" target="_blank" rel="noreferrer"> 
+  
+  <a href="https://www.openldap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/OpenLDAP-logo.png" alt="ldap" width="90" height="40" style="max-width: 90px;"/> 
   </a>
 </p>
