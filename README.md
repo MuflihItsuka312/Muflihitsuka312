@@ -115,6 +115,12 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
   </a>
+    <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> 
+  </a>
+  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-icon.svg" alt="fortinet" width="40" height="40"/> 
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muflihitsuka312&show_icons=true&locale=en&layout=compact" alt="muflihitsuka312" /></p>
