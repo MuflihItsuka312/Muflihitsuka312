@@ -119,8 +119,8 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> 
   </a>
   <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-icon.svg" alt="fortinet" width="60" height="60"/> 
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" alt="fortinet" width="40" height="40" style="max-width: 92px;"/> 
+</a>
    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   </a>
