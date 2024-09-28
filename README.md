@@ -132,21 +132,22 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
     <img src="YOUR_HOSTED_FORTINET_LOGO_URL" alt="fortinet" width="40" height="40" style="max-width: 40px;"/> 
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burpsuite" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burp_Suite_Logo.png/600px-Burp_Suite_Logo.png" alt="burpsuite" width="40" height="40"/> 
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_logo.svg" alt="nmap" width="40" height="40"/> 
+    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="40" height="40"/> 
   </a>
   <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" alt="autopsy" width="40" height="40"/> 
   </a>
   <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Sqlmap_logo.png" alt="sqlmap" width="40" height="40"/> 
+    <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="sqlmap" width="40" height="40"/> 
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> 
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muflihitsuka312&show_icons=true&locale=en&layout=compact" alt="muflihitsuka312" /></p>
 
