@@ -28,7 +28,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
         </ul>
       </td>
       <td>
-        <img src="https://cdn.prod.website-files.com/63aa9a07e473f30b8ea41b24/63cf1a2399195a595f8ebbaf_Hosting%20Animation.gif" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
+        <img src="![Cloud Hosting (online-video-cutter com) (1)](https://github.com/user-attachments/assets/dacfb4d8-0ba1-47b2-8265-5a49fd24d8f4)" alt="nba" style="max-width: 150px; border-radius: 10px;"/>
       </td>
     </tr>
   </table>
