@@ -156,15 +156,16 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihitsuka312&" alt="muflihitsuka312" /></p>
 
-<h2 align="center">🎶 Now Playing on Spotify 🎶</h2>
-<table align="center">
+
+<h2 align="center">🎵 Now Playing on Spotify 🎶</h2>
+<table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center; vertical-align: top; padding: 10px;">
       <a href="https://open.spotify.com/user/sayang" class="spotify-logo">
-        <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="140" height="140"/>
+        <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="150" height="150"/>
       </a>
     </td>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center; vertical-align: top; padding: 10px;">
       <a href="https://open.spotify.com/user/sayang">
         <img src="https://novatorem-drab-three.vercel.app/api/spotify/?background_color=121212&border_color=1DB954" alt="Spotify Now Playing" width="500" style="border-radius: 10px; border: 2px solid #1DB954; box-shadow: 0px 0px 40px 15px rgba(29, 185, 84, 0.7);"/>
       </a>
