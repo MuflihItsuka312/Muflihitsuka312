@@ -158,7 +158,6 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 
 <h2 align="center">🎵 Now Playing on Spotify 🎶</h2>
-<table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
       <a href="https://open.spotify.com/user/sayang" class="spotify-logo">
