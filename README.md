@@ -157,7 +157,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihitsuka312&" alt="muflihitsuka312" /></p>
 
 
-<h2 align="center" style="margin: 0;">🎵 Now Playing on Spotify 🎶</h2>
+<h2 align="center" style="margin: 0; padding: 0; border: none;">🎵 Now Playing on Spotify 🎶</h2>
 <table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
@@ -172,7 +172,6 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
     </td>
   </tr>
 </table>
-
 
 
 
