@@ -162,7 +162,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
     <img src="https://novatorem-drab-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/>
   </a>
 </p>
-</style>
+
 </div>
 
 
