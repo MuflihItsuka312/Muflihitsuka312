@@ -156,11 +156,12 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihitsuka312&" alt="muflihitsuka312" /></p>
 
-
-
-<p align="left"> &nbsp;<div align="center">
-  
-  [![Spotify](https://novatorem-drab-three.vercel.app/api/spotify)](https://open.spotify.com/user/sayang)
+<h2 align="center">🎵 Now Playing on Spotify 🎶</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/sayang">
+    <img src="https://novatorem-drab-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/>
+  </a>
+</p>
 </div>
 
 
