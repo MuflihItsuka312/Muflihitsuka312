@@ -161,7 +161,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
   <tr>
     <td style="text-align: center; vertical-align: top;">
       <a href="https://open.spotify.com/user/sayang" class="spotify-logo">
-        <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="150" height="150"/>
+        <img src="https://github.com/user-attachments/assets/84c1806d-29a5-461c-874a-df2aba165c4f" alt="Spotify" width="140" height="140"/>
       </a>
     </td>
     <td style="text-align: center; vertical-align: top;">
