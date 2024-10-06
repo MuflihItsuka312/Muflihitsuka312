@@ -159,7 +159,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 <h2 align="center">🎵 Now Playing on Spotify 🎶</h2>
 <p align="center">
   <a href="https://open.spotify.com/user/sayang">
-    <img src="https://novatorem-drab-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/>
+    <img src="https://novatorem-drab-three.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff" alt="Spotify Now Playing" width="500"/>
   </a>
 </p>
 
