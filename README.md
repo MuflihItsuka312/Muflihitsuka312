@@ -157,8 +157,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihitsuka312&" alt="muflihitsuka312" /></p>
 
 <h3 align="left">🎶 Now Playing on Spotify 🎶</h3>
-<p align="left">
-<table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
+<table align="left" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
     <td style="text-align: center; vertical-align: top; padding: 10px;">
       <a href="https://open.spotify.com/user/sayang" class="spotify-logo">
@@ -172,6 +171,6 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
     </td>
   </tr>
 </table>
-</p>
+
 
 
