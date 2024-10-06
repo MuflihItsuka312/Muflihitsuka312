@@ -156,7 +156,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihitsuka312&" alt="muflihitsuka312" /></p>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
 <p align="center">
 <table align="center" style="background-color: #1DB954; border-collapse: collapse; border-radius: 10px; padding: 10px;">
   <tr>
