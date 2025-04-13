@@ -25,7 +25,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
           <li>👤 Name: Muhammad Muflih Fasya - ムフリフ</li>
           <li>🌱 I’m currently learning <a href="https://github.com/MuflihItsuka312/NodeJS-Express-MongoDB-Practice">NodeJS</a></li>
           <li>📝 I regularly write articles on <a href="https://medium.com/@Sh1d0u">https://medium.com/@Sh1d0u</a></li>
-          <li>💬 Ask me about <strong>System Admin, Cisco Network, AWS Architect, CI/CD</strong></li>
+          <li>💬 Ask me about <strong>System Admin, Cisco Network, AWS Architect, CI/CD,Cyber Security</strong></li>
           <li>📫 How to reach me <strong>fasya.muflih05@gmail.com</strong></li>
         </ul>
       </td>
