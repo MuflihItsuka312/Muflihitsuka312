@@ -156,9 +156,7 @@ A passionate DevOps and network engineer from Indonesia with a deep enthusiasm f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muflihitsuka312&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-nu-red.vercel.app?user=MuflihItsuka312" alt="GitHub Streak Stats" />
-  </a>
+  
 </p>
 
 
